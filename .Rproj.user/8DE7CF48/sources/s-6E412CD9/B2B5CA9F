@@ -1,0 +1,24 @@
+{
+    "id": "B2B5CA9F",
+    "path": null,
+    "project_path": null,
+    "type": "urlcontent",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1601495561277.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "title": "R packages available",
+        "contentUrl": "content?title=R+packages+available&file=70db41c1126648bab83eb8faa06dc632"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 687896842,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1601495561277,
+    "read_only": false,
+    "read_only_alternatives": []
+}
